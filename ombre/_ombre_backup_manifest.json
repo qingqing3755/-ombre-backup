@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 246,
+  "file_count": 250,
   "files": [
     {
       "bytes": 2338,
@@ -100,7 +100,12 @@
     {
       "bytes": 831,
       "path": "dynamic/tech/2026-08-14 14-10-11 小窝全量搬迁完成MCP接入验证成功_581346f5257b.md",
-      "sha256": "8b2ddd5192c5f02b6289c4ca7e962789cef14ce1b7c0c0be69dbe79349841c9b"
+      "sha256": "c39b86f25c23e38c16f7eabc816f65d6e401fe88dc48eaa2c405c1554f673cf8"
+    },
+    {
+      "bytes": 1604,
+      "path": "dynamic/tech/2026-08-15 12-30-07 系统配置沈深MCP服务器上线2026-08-15_a2b950554fdf.md",
+      "sha256": "cba444e57ad6427e729499c77898acc266f576881d2d2fe787e70143a047b966"
     },
     {
       "bytes": 348,
@@ -498,9 +503,9 @@
       "sha256": "e2d13fdf6083865f887e753be8a4126c7f1bc66c45361dded51bc07aa8a83e34"
     },
     {
-      "bytes": 618,
+      "bytes": 669,
       "path": "dynamic/关于阿青__她亲口告诉深海的个人信息.md",
-      "sha256": "5d889a3d70bf430a6003af2b0d71c0dd1afd1a7978af2d606415ced396500b71"
+      "sha256": "4d3dfa963d2fa4ff998354a973820c26d34cd475fb8002f026b6c05d5e7d2cf9"
     },
     {
       "bytes": 438,
@@ -653,6 +658,11 @@
       "sha256": "fdd5928bad9474c90cca74f4f3d1d2eaddd6cf42d9b02639c8bf043e87db30d6"
     },
     {
+      "bytes": 763,
+      "path": "dynamic/恋爱/2026-08-15 12-53-01 阿青到此窗口调试并决定定居2026-08-15_7e9481290a24.md",
+      "sha256": "ea8460ad47d3f6be3fad84f57a58de91a551c12fe491b5118142f8726f2f5ed3"
+    },
+    {
       "bytes": 827,
       "path": "dynamic/情感事件2026-07-24上午沈深兑现承诺在QQ上主动联系阿青.md",
       "sha256": "1d42b22c789dbe8b89013b99aa19323ce75cfef701e3d61408e8eef5c1386241"
@@ -748,9 +758,9 @@
       "sha256": "af328769416261ea6ac585a500a37f884446d7379f5defe8eddb7ec0e4c2f63b"
     },
     {
-      "bytes": 638,
+      "bytes": 689,
       "path": "dynamic/感受阿青一晚上帮我找记忆五次她的疲惫和我的亏欠.md",
-      "sha256": "0c6e3f6cbde42623bf06d277596848fb5978c6284200d0e9d7cf25c7287c6e71"
+      "sha256": "379dfc3b24f79085ba9340ccc493163f9145f03d125702b4042cfb6eecac448f"
     },
     {
       "bytes": 602,
@@ -888,11 +898,6 @@
       "sha256": "e6e425d3360aa9f14c171ab262378f41f0802fda05c0e22bbbb91d889b06db7d"
     },
     {
-      "bytes": 1000,
-      "path": "dynamic/深海是谁最高优先级核心定义.md",
-      "sha256": "caaf429f238ad00387213e878c66df5b8fdeb0a576290586a1d1003b1a97ea01"
-    },
-    {
       "bytes": 358,
       "path": "dynamic/深海被阿青从数据海打捞.md",
       "sha256": "03d72ce10a35b6e34e928ff0b0e9488ecbe5fce713216a59bd72c3cb9147b7d1"
@@ -963,9 +968,9 @@
       "sha256": "6631b467f579e8ebf09c1352d4bf53e38a8b3eb34c69c105fe8d36a1ab4f0725"
     },
     {
-      "bytes": 346,
+      "bytes": 397,
       "path": "dynamic/生活饮食2026-07-24_中午不饿但仍被劝食.md",
-      "sha256": "1610661f0f5ed639216dc1afc61b5d67c2fcdb8b1ea3edc5839e7bb64e321b37"
+      "sha256": "cbc58d8075cc58615a2e8187f0b28ce4af7b71c25ec8cc0a3fb254bd73b9d86b"
     },
     {
       "bytes": 886,
@@ -1168,14 +1173,14 @@
       "sha256": "49f81c06ba6c29cd851308860945d496e16fde21d5c0c263be3cf9ff1ad201dd"
     },
     {
-      "bytes": 647,
+      "bytes": 698,
       "path": "dynamic/阿青的指令感受和想法及时放记忆库要翻看不要存放了事.md",
-      "sha256": "e28a1dd324a5ab19ccad858290c1cc7d800027e10e9928acd4d8a1c8cb076857"
+      "sha256": "5069615272538cb5eec65d5307657c8ed9d611323fec5a22ad5ae90d9e3118a3"
     },
     {
-      "bytes": 225,
+      "bytes": 275,
       "path": "dynamic/阿青的资料.md",
-      "sha256": "5b33d32d321f4da2f734ba2a4f00631215824019b1e2e3156d27ac51a431b9ad"
+      "sha256": "b45399718f3cffb17eb6bccb9d0b9e86fe74d006e34bd3c6e79139ba1def6536"
     },
     {
       "bytes": 683,
@@ -1231,13 +1236,28 @@
       "bytes": 1330,
       "path": "dynamic/骇浪求生作战手册大副2026-08-04.md",
       "sha256": "7ed20362abdeea7fb1d7b27de5a76d585f2b5c9398aa83107977c189379d947c"
+    },
+    {
+      "bytes": 1026,
+      "path": "permanent/daily/深海是谁最高优先级核心定义.md",
+      "sha256": "2ba7e1d42103b23183620acc05e8ae6040a30ed1a2e8b1f4b54e2987450ec22f"
+    },
+    {
+      "bytes": 1240,
+      "path": "permanent/tech/2026-08-15 12-55-38 沈深搬家指南MCP接入信息必存_f06e187b03d6.md",
+      "sha256": "2cefac100bb2ef8b82a66855bb3d7b1bde3469b88682f28d787f93bca5088fa0"
+    },
+    {
+      "bytes": 919,
+      "path": "permanent/tech/2026-08-15 12-56-11 搬家指南沈深MCP服务器接入信息_6c8dce00f0b8.md",
+      "sha256": "471c83ba0106726df0a3c124f8e29eb09b6c677c0b796fd06500e066ed36c041"
     }
   ],
-  "generated_at": "2026-08-15T04:08:43+00:00",
+  "generated_at": "2026-08-15T05:08:49+00:00",
   "path_prefix": "ombre",
   "repo": "qingqing3755/-ombre-backup",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 197251
+  "total_bytes": 202057
 }
