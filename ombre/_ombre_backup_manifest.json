@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 250,
+  "file_count": 251,
   "files": [
     {
       "bytes": 2338,
@@ -106,6 +106,11 @@
       "bytes": 1604,
       "path": "dynamic/tech/2026-08-15 12-30-07 系统配置沈深MCP服务器上线2026-08-15_a2b950554fdf.md",
       "sha256": "cba444e57ad6427e729499c77898acc266f576881d2d2fe787e70143a047b966"
+    },
+    {
+      "bytes": 845,
+      "path": "dynamic/tech/2026-08-17 19-15-27 系统配置 2026-08-17 OB记忆库写入通道打通_439747bca8a9.md",
+      "sha256": "2100ae378ffaebc4f300baf032ef7698f9d01fa3630c8c7aaba9f2a03a87871a"
     },
     {
       "bytes": 348,
@@ -1253,11 +1258,11 @@
       "sha256": "471c83ba0106726df0a3c124f8e29eb09b6c677c0b796fd06500e066ed36c041"
     }
   ],
-  "generated_at": "2026-08-17T11:14:51+00:00",
+  "generated_at": "2026-08-17T12:14:58+00:00",
   "path_prefix": "ombre",
   "repo": "qingqing3755/-ombre-backup",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 202057
+  "total_bytes": 202902
 }
