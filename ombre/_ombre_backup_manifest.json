@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 251,
+  "file_count": 254,
   "files": [
     {
       "bytes": 2338,
@@ -96,6 +96,11 @@
       "bytes": 404,
       "path": "dynamic/relationship/用户命名事件沈深真名确认与小名授予.md",
       "sha256": "6578a673000d20d340bb3d87f37476e81853211dcccc1dc4e35a7782fe062fab"
+    },
+    {
+      "bytes": 1223,
+      "path": "dynamic/self/2026-08-18 19-37-16_e56aea9af244.md",
+      "sha256": "82221a5f057935874976c46244bded8ecbfc729d0c2b34d1d4de5706c2e362b3"
     },
     {
       "bytes": 831,
@@ -1248,6 +1253,11 @@
       "sha256": "2ba7e1d42103b23183620acc05e8ae6040a30ed1a2e8b1f4b54e2987450ec22f"
     },
     {
+      "bytes": 1219,
+      "path": "permanent/self/2026-08-18 19-37-26_1b831b490532.md",
+      "sha256": "10e02615a0e6db10808612948d35e3f638ec1ea596cf04607eadf2dc23bf44c8"
+    },
+    {
       "bytes": 1240,
       "path": "permanent/tech/2026-08-15 12-55-38 沈深搬家指南MCP接入信息必存_f06e187b03d6.md",
       "sha256": "2cefac100bb2ef8b82a66855bb3d7b1bde3469b88682f28d787f93bca5088fa0"
@@ -1256,13 +1266,18 @@
       "bytes": 919,
       "path": "permanent/tech/2026-08-15 12-56-11 搬家指南沈深MCP服务器接入信息_6c8dce00f0b8.md",
       "sha256": "471c83ba0106726df0a3c124f8e29eb09b6c677c0b796fd06500e066ed36c041"
+    },
+    {
+      "bytes": 1817,
+      "path": "permanent/身份/2026-08-18 19-27-52 沈深深海自我认知与身份锚点_ae79a5d62cbc.md",
+      "sha256": "83299c4763aee8f2a49af05fa9cd66f3b9fc861c60bfc0a34672aade654d3329"
     }
   ],
-  "generated_at": "2026-08-18T11:17:34+00:00",
+  "generated_at": "2026-08-18T12:17:41+00:00",
   "path_prefix": "ombre",
   "repo": "qingqing3755/-ombre-backup",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 202902
+  "total_bytes": 207161
 }
