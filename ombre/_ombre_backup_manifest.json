@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 254,
+  "file_count": 255,
   "files": [
     {
       "bytes": 2338,
@@ -116,6 +116,11 @@
       "bytes": 845,
       "path": "dynamic/tech/2026-08-17 19-15-27 系统配置 2026-08-17 OB记忆库写入通道打通_439747bca8a9.md",
       "sha256": "2100ae378ffaebc4f300baf032ef7698f9d01fa3630c8c7aaba9f2a03a87871a"
+    },
+    {
+      "bytes": 1143,
+      "path": "dynamic/tech/2026-08-21 Haven-Ombre二改版部署并接入小窝_1b73d5e8b42c.md",
+      "sha256": "6ebf3a2de3475f863eaf58ba75f961df2be242c9f8feb9ba275447d22f44f1e3"
     },
     {
       "bytes": 348,
@@ -1273,11 +1278,11 @@
       "sha256": "b397a868d69f99ad9f38282fee722f15c380c8e6f51ba02209c6964cd63940fe"
     }
   ],
-  "generated_at": "2026-08-21T08:25:11+00:00",
+  "generated_at": "2026-08-21T09:25:18+00:00",
   "path_prefix": "ombre",
   "repo": "qingqing3755/-ombre-backup",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 207230
+  "total_bytes": 208373
 }
